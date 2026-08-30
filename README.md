@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T379
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name:** TechTonic <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |       Sriram S          |     CB.SC.U4AIE24066   |   Male          |           CSE (AI) / AI         |  
-|    Member 2     |       Kavin V C         |     CB.SC.U4CSE24424   |   Male          |             CSE                 |  
-|    Member 3     |       Jivites D         |     CB.SC.U4AIE24020   |   Male          |           CSE(AI) / AI          |  
-|    Member 4     | Nagireddy Bhavesh Reddy |     CB.SC.U4AIE24034   |   Male          |           CSE(AI) / AI          |   
-|    Member 5     | Bachu Naga Sri Harini   |     CB.SC.U4AIE24010   |   Female        |           CSE(AI) / AI          |
-|    Member 6     | Ravala Gnanasri Chowdary|     CB.SC.U4AIE24064   |   Female        |           CSE(AI) / AI          |   
+|   Team Leader   |       Sriram S          |     CB.SC.U4AIE24066   |   Male          |    B.Tech CSE (AI) / AI         |  
+|    Member 2     |       Kavin V C         |     CB.SC.U4CSE24424   |   Male          |    B.Tech CSE                   |  
+|    Member 3     |       Jivites D         |     CB.SC.U4AIE24020   |   Male          |    B.Tech CSE(AI) / AI          |  
+|    Member 4     | Nagireddy Bhavesh Reddy |     CB.SC.U4AIE24034   |   Male          |    B.Tech CSE(AI) / AI          |   
+|    Member 5     | Bachu Naga Sri Harini   |     CB.SC.U4AIE24010   |   Female        |    B.Tech CSE(AI) / AI          |
+|    Member 6     | Ravala Gnanasri Chowdary|     CB.SC.U4AIE24064   |   Female        |    B.Tech CSE(AI) / AI          |   
 
 #### Mentor Details
 
