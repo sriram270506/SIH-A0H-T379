@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |       Sriram S          |     CB.SC.U4AIE24066   |   Male          |    B.Tech CSE (AI) / AI         |  
+|   Team Leader   |       Sriram S          |     CB.SC.U4AIE24066   |   Male          |    B.Tech CSE (AI)              |  
 |    Member 2     |       Kavin V C         |     CB.SC.U4CSE24424   |   Male          |    B.Tech CSE                   |  
-|    Member 3     |       Jivites D         |     CB.SC.U4AIE24020   |   Male          |    B.Tech CSE(AI) / AI          |  
-|    Member 4     | Nagireddy Bhavesh Reddy |     CB.SC.U4AIE24034   |   Male          |    B.Tech CSE(AI) / AI          |   
-|    Member 5     | Bachu Naga Sri Harini   |     CB.SC.U4AIE24010   |   Female        |    B.Tech CSE(AI) / AI          |
-|    Member 6     | Ravala Gnanasri Chowdary|     CB.SC.U4AIE24064   |   Female        |    B.Tech CSE(AI) / AI          |   
+|    Member 3     |       Jivites D         |     CB.SC.U4AIE24020   |   Male          |    B.Tech CSE (AI)              |  
+|    Member 4     | Nagireddy Bhavesh Reddy |     CB.SC.U4AIE24034   |   Male          |    B.Tech CSE (AI)              |   
+|    Member 5     | Bachu Naga Sri Harini   |     CB.SC.U4AIE24010   |   Female        |    B.Tech CSE (AI)              |
+|    Member 6     | Ravala Gnanasri Chowdary|     CB.SC.U4AIE24064   |   Female        |    B.Tech CSE (AI)              |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |   Dr. Sowmya V      |  Associate Professor  |           AI            |  v_sowmya@cb.amrita.edu  |
+| Academic       |   Dr. Sowmya V      |  Associate Professor  |      School of AI       |  v_sowmya@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 -----
